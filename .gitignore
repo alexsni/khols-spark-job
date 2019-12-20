@@ -3,6 +3,8 @@ ssh
 **.DS_Store
 **.idea
 **.iml
+**checkpoint
+checkpoint/*
 **dependency-reduced-pom.xml
 **target
 **aduno-performance-test.result
